@@ -17,10 +17,7 @@ const page = () => {
         <p className='max-w-screen-lg  text-3xl px-2.5 py-2.5 mt-20'>
         I m a frontend developer, passionate about technology and creating innovative solutions.<br/> I have a strong foundation in programming languages such as Html,Css,and JavaScript,<br/> I m currently working on Nextjs projects, and I m always eager to learn and grow.
         </p>
-        {/* <p className='max-w-screen-lg  text-4xl px-2.5 py-2.5 mt-0'>
-        I have a Bachelors degree <br/>
-        from University of karachi, <br/>
-        </p> */}
+      
     </div>
     <div className=''>
 <Image className ="relative top-12 w-[32vw] rounded-full h-[32vw] object-cover mt-44 left-56 cursor-pointer ease-in-out[0.4s]]"src={profile} alt='profile' />
